@@ -6,4 +6,5 @@
  - Story: Not yet started
  - Game-start related: Started, not yet finished
  - Game: Not yet started
- - Generic: Not yet started
+ - Credits: Started, finished for the moment
+ - Languages: English for the moment, will put variables instead of text
